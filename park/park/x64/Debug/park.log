@@ -1,0 +1,7 @@
+﻿  park.cpp
+C:\Users\Кирилл\source\repos\park\park\park.cpp(116,33): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Кирилл\source\repos\park\park\park.cpp(119,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Кирилл\source\repos\park\park\park.cpp(122,35): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Кирилл\source\repos\park\park\park.cpp(200,34): warning C4302: <function-style-cast>: усечение из "const char *" к "char"
+C:\Users\Кирилл\source\repos\park\park\park.cpp(203,36): warning C4302: <function-style-cast>: усечение из "const char *" к "char"
+  park.vcxproj -> C:\Users\Кирилл\source\repos\park\x64\Debug\park.exe
